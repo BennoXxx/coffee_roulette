@@ -1,0 +1,71 @@
+﻿ID,Name,Group,Service_Line,Level,Interests,Service_Line_Preference
+1,Sarah Lee,Graduate,Audit and Assurance,Consultant,Cost Modelling;Software Development;Workforce Planning,Data and Cloud;Financial Strategy & Performance;Cyber
+2,Aaron Lou,Graduate,Operations Advisory,Consultant,Defence;Workforce Planning;Emergency Services,Operations Advisory;Data and Cloud;Financial Strategy & Performance
+3,Catherine Yang,Graduate,Deals Tax and Legal,Consultant,Infrastructure,Deals Tax and Legal;Cyber;Data and Cloud
+4,John Oliver,Graduate,Audit and Assurance,Consultant,Health care,Deals Tax and Legal
+5,Jae Lee,Graduate,Deals Tax and Legal,Consultant,Foreign Affairs and Trade;Economic Modelling,People and Change;Financial Strategy & Performance;Data and Cloud
+6,Bec Johns,Graduate,Operations Advisory,Consultant,Software Development;Auditing,People and Change
+7,Mary Constantine,Graduate,Financial Strategy & Performance,Consultant,Inclusion and Diversity;Project Management,Audit and Assurance
+8,Paul Lee,Graduate,Operations Advisory,Consultant,Data analytics;Software Development,Audit and Assurance
+9,Paul Lee,Graduate,Audit and Assurance,Consultant,Financial Services,Data and Cloud;Audit and Assurance
+10,Catherine Adams,Graduate,Financial Strategy & Performance,Consultant,Inclusion and Diversity;Health care,Data and Cloud;Operations Advisory
+11,Juliette Slack,Graduate,Cyber,Consultant,,Audit and Assurance
+12,Justin Scott,Graduate,Financial Strategy & Performance,Consultant,Health care;Software Development,Financial Strategy & Performance;Audit and Assurance
+13,Nadia Zwangobani,Graduate,Financial Strategy & Performance,Consultant,Foreign Affairs and Trade;Cost Modelling,Deals Tax and Legal;Audit and Assurance
+14,Kerry O'Sullivan,Graduate,Data and Cloud,Consultant,Auditing;Foreign Affairs and Trade;Auditing,Data and Cloud
+15,Erin Lou,Graduate,Operations Advisory,Consultant,Infrastructure;Software Development,Deals Tax and Legal;Deals Tax and Legal;Operations Advisory
+16,Ben O'Sullivan,Graduate,Deals Tax and Legal,Consultant,,Operations Advisory;Audit and Assurance;Data and Cloud
+17,Jae Sheaves,Graduate,Audit and Assurance,Consultant,Data analytics;Health care;Foreign Affairs and Trade,Audit and Assurance;Financial Strategy & Performance;People and Change
+18,Catherine Wiley,Graduate,Operations Advisory,Consultant,Learning and Development,Data and Cloud;Cyber;Deals Tax and Legal
+19,Bec Lee,Graduate,Operations Advisory,Consultant,Health care,Financial Strategy & Performance
+20,Erin Lee,Graduate,Audit and Assurance,Consultant,,Operations Advisory;Audit and Assurance;Audit and Assurance
+21,Neil Brown,Graduate,People and Change,Consultant,Software Development;Defence,Financial Strategy & Performance;Data and Cloud;Cyber
+22,Alannah O'Sullivan,Graduate,Deals Tax and Legal,Consultant,Software Development,Financial Strategy & Performance;People and Change
+23,Juliette Smith,Mentor,Financial Strategy & Performance,Director,Project Management;Auditing,
+24,Bec O'Sullivan,Mentor,Financial Strategy & Performance,Director,Inclusion and Diversity,
+25,Ben Oliver,Mentor,People and Change,Senior Consultant,,
+26,Shane James,Mentor,People and Change,Director,ESG;Auditing,
+27,Aaron Yang,Mentor,Operations Advisory,Partner,,
+28,James Zwangobani,Mentor,Financial Strategy & Performance,Associate Director,Foreign Affairs and Trade;ESG;Infrastructure,
+29,Jae Brown,Mentor,Operations Advisory,Senior Consultant,Data analytics;Cost Modelling,
+30,Chris Constantine,Mentor,Financial Strategy & Performance,Partner,Cost Modelling;Economic Modelling,
+31,Justin Smith,Mentor,People and Change,Director,Financial Services;Health care,
+32,Steve Richardson,Mentor,Audit and Assurance,Director,,
+33,Justin Bell,Mentor,Operations Advisory,Director,Health care;Foreign Affairs and Trade;Foreign Affairs and Trade,
+34,Samson Slack,Mentor,Data and Cloud,Senior Consultant,Software Development,
+35,Aaron Richardson,Mentor,Deals Tax and Legal,Partner,Inclusion and Diversity;Project Management;ESG,
+36,James Johns,Mentor,Operations Advisory,Associate Director,Auditing;Workforce Planning,
+37,Nick Scott,Mentor,Financial Strategy & Performance,Manager,Inclusion and Diversity;Workforce Planning,
+38,Maria Ahmed,Mentor,Cyber,Director,Health care;Learning and Development;Inclusion and Diversity,
+39,Justin Richardson,Mentor,Cyber,Senior Consultant,Software Development;Software Development;Workforce Planning,
+40,Ben James,Mentor,Deals Tax and Legal,Manager,,
+41,Shane Smith,Mentor,Operations Advisory,Senior Consultant,Software Development;Learning and Development;Health care,
+42,Nadia Slack,Mentor,Financial Strategy & Performance,Associate Director,ESG;ESG;Learning and Development,
+43,Andre Jain,Mentor,Data and Cloud,Senior Consultant,Emergency Services,
+44,Catherine Johns,Mentor,Audit and Assurance,Senior Consultant,Learning and Development;Cost Modelling,
+45,Juliette Constantine,Mentor,Deals Tax and Legal,Director,Health care;Financial Services;ESG,
+46,Ben O'Sullivan,Mentor,Cyber,Senior Consultant,Foreign Affairs and Trade,
+47,Nadia Lee,Mentor,Cyber,Senior Consultant,,
+48,Alannah Sheaves,Mentor,Cyber,Associate Director,,
+49,Neil Johns,Mentor,Deals Tax and Legal,Director,,
+50,Bec Oliver,Mentor,Cyber,Manager,Learning and Development,
+51,Graham Jain,Mentor,Operations Advisory,Director,,
+52,Ben Oliver,Mentor,Audit and Assurance,Director,Financial Services,
+53,Steve Lopez,Mentor,People and Change,Partner,Auditing,
+54,Anna Folks,Mentor,Data and Cloud,Manager,Auditing;Foreign Affairs and Trade;Software Development,
+55,Samson Atkins,Mentor,Cyber,Senior Consultant,Learning and Development;Data analytics;Defence,
+56,Catherine Atkins,Mentor,Operations Advisory,Partner,Infrastructure;Inclusion and Diversity;Inclusion and Diversity,
+57,Maria Yang,Mentor,Financial Strategy & Performance,Partner,Learning and Development;Auditing;Cost Modelling,
+58,James Johns,Mentor,Financial Strategy & Performance,Associate Director,,
+59,Maria Scott,Mentor,Financial Strategy & Performance,Director,Auditing,
+60,Catherine Atkins,Mentor,Deals Tax and Legal,Associate Director,Infrastructure,
+61,Alannah Richardson,Mentor,Data and Cloud,Manager,Data analytics,
+62,Alannah Wu,Mentor,People and Change,Director,Project Management;Foreign Affairs and Trade;Inclusion and Diversity,
+63,Andre Richardson,Mentor,Operations Advisory,Director,Data analytics;Foreign Affairs and Trade;Cost Modelling,
+64,John Sheaves,Mentor,Deals Tax and Legal,Director,Health care,
+65,Mary Yang,Mentor,Deals Tax and Legal,Director,Economic Modelling,
+66,Nick Wiley,Mentor,Operations Advisory,Manager,,
+67,Steve Yang,Mentor,Operations Advisory,Director,Project Management,
+68,Kerry Brown,Mentor,Cyber,Partner,,
+69,Catherine Folks,Mentor,Audit and Assurance,Senior Consultant,Emergency Services,
+70,Neil Constantine,Mentor,Data and Cloud,Associate Director,Emergency Services;Workforce Planning;Workforce Planning,
